@@ -1,0 +1,45 @@
+footer {
+  background-color: #cbcbcb;
+  padding: 40px 20px;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.newsletter h3,
+.footer-menu h3,
+.social-media h3 {
+  margin-bottom: 15px;
+}
+
+.newsletter input,
+.newsletter button {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.footer-menu>ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-menu>ul>li {
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+.social-icons {
+  display: flex;
+  text-decoration: none;
+  color: black;
+}
+
+.social-icons .icon {
+  margin-right: 20px;
+  text-decoration: none;
+  color: blueviolet;
+}

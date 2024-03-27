@@ -1,0 +1,111 @@
+#main-article{
+  width: 100%;
+  height: 100%;
+}
+
+/* --------------------------------main header------------------------------ */
+
+#main-header{
+  width: 70%;
+  background-color: #5226e0;
+  margin: auto;
+  border: 1px solid #000;
+  height: 50px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#logo{
+  height:50px;
+  width: 50px;
+  background-color: rgb(59, 201, 16);
+}
+
+
+#navbar{
+  width:50%;
+  background-color:rgb(59, 201, 16);
+}
+
+
+/* ----------------main-body-------------------- */
+
+#main-body{
+  width:70%;
+  margin: auto; 
+  margin-top:30px;
+  border: 1px solid #000;
+}
+
+h1{
+  text-align:center;
+}
+
+/* ----------------author section------------------------ */
+
+#author-section{
+  border:1px solid #000;
+  width: 90%;
+  margin: auto;
+  margin-bottom: 10px;
+  height: 40px;
+  color: white;
+  background-color: #443737;
+}
+
+#author-section img{
+  width:30px;
+  height: 30px;
+  float: left;
+  margin-top: 5px;
+}
+
+#author-section span{
+  margin-left: 20px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+/* --------------------blog img----------------- */
+
+#blog-img{
+  width: 90%;
+  margin: auto;
+  display: block;
+  margin-bottom: 30px;
+}
+
+/* ----------------------blog text section------------------------- */
+
+#blog-text-section{
+  width: 90%;
+  margin: auto;
+  border: 1px solid #000;
+  height: 150px;
+  margin-bottom: 30px;
+  background-color: #c03be8;
+}
+
+/* --------------------aside section-------------------- */
+
+aside{
+  width: 90%;
+  margin: auto;
+  border: 1px solid #000;
+  height: 90px;
+  margin-bottom: 30px;
+  background-color: #e9cf5a;
+}
+
+footer{
+  width: 70%;
+  margin: auto;
+  border: 1px solid #000;
+  height: 50px;
+  margin-bottom: 30px;
+  background-color: #32489783;
+  margin-top: 30px;
+}
+
